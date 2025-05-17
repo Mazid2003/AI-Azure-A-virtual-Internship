@@ -1,4 +1,4 @@
-**🗓 Day 3: Deep Dive into AI & Machine Learning**
+**🗓 Day 2: Deep Dive into AI & Machine Learning**
 
 Date: 14/05/2025
 
