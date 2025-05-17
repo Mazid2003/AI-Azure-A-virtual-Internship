@@ -114,6 +114,7 @@ Supervised Learning(labelled data)
         
 Unsupervised Learning(unlabelled data)
 - Clustering
+  
         - Hierarchical
         - Density based
         - Centroid based
