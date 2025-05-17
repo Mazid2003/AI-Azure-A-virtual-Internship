@@ -99,11 +99,24 @@ Enhances decision-making capabilities
 
 **🧩 Types of ML:**
 
-Supervised Learning
+Supervised Learning(labelled data)
+- Regression
+        - Simple linear 
+        - Multiple linear 
+        - Decision Tree
+        - Random Forest
+        - Support Vector
+- Classification
+        - Binary
+        - Multi Class
+        
+Unsupervised Learning(unlabelled data)
+- Clustering
+        - Hierarchical
+        - Density based
+        - Centroid based
 
-Unsupervised Learning
-
-Reinforcement Learning
+Reinforcement Learning(Based on past experience)
 
 **⚙️ Working Mechanism of ML:**
 
