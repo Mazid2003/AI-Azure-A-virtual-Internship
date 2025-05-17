@@ -101,12 +101,14 @@ Enhances decision-making capabilities
 
 Supervised Learning(labelled data)
 - Regression
+  
         - Simple linear 
         - Multiple linear 
         - Decision Tree
         - Random Forest
         - Support Vector
 - Classification
+  
         - Binary
         - Multi Class
         
