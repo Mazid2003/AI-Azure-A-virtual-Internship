@@ -10,11 +10,15 @@ Today's session focused on the advanced concepts of Deep Learning and the trendi
 
 **🧠 What is Deep Learning?**
 
+![WhatsApp Image 2025-05-17 at 12 43 53 PM (1)](https://github.com/user-attachments/assets/17d045df-a6f6-4cf6-a18e-665569391077)
+
 Deep Learning is a subset of Machine Learning inspired by the structure of the human brain (neural networks).
 
 It involves multiple layers (deep neural networks) to model complex patterns in large datasets.
 
 **🚀 Applications of Deep Learning:**
+
+![WhatsApp Image 2025-05-17 at 12 43 47 PM (1)](https://github.com/user-attachments/assets/7c815d60-8783-4c8e-ad6a-f849dfdd66f0)
 
 - Computer Vision: Image classification, face recognition, object detection
 
