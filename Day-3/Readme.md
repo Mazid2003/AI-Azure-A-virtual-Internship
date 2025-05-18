@@ -52,6 +52,8 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
 **🧩 Applications of Generative AI:**
 
+![WhatsApp Image 2025-05-17 at 12 43 48 PM](https://github.com/user-attachments/assets/01783fb7-fdc0-4b59-ae35-62c81282c33d)
+
 - Text Generation: Chatbots, article creation, auto-emailing
 
 - Image Generation: AI art, style transfer, design assistance
@@ -63,6 +65,8 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 - Healthcare: Drug discovery, report generation
 
 **🛠 Generative AI Tools:**
+
+![WhatsApp Image 2025-05-17 at 12 43 47 PM (2)](https://github.com/user-attachments/assets/1d566bb2-c328-459a-8dd9-a1e452082255)
 
 - OpenAI (ChatGPT, DALL·E)
 
@@ -76,6 +80,8 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
 **⚙️ How Generative AI Works:**
 
+![WhatsApp Image 2025-05-17 at 12 43 50 PM (1)](https://github.com/user-attachments/assets/b3fa21b7-55cf-44ce-87a6-f6e8d2562dcd)
+
 - Trained on massive datasets using transformer-based models like GPT
 
 - Learns patterns, context, and relationships between data
@@ -83,6 +89,8 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 - Uses probabilistic modeling to generate new, coherent content
 
 **🧠 Large Language Models (LLMs):**
+
+![WhatsApp Image 2025-05-17 at 12 43 50 PM](https://github.com/user-attachments/assets/828b59b6-8ce1-486a-975e-8d05a1f26644)
 
 LLMs like GPT-4, BERT, LLaMA, and PaLM are deep learning models trained on billions of words
 
