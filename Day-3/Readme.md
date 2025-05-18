@@ -98,11 +98,15 @@ They understand and generate human-like text across domains
 
 **✍️ Text Generation:**
 
+![WhatsApp Image 2025-05-17 at 12 43 49 PM (1)](https://github.com/user-attachments/assets/0874040b-65e4-480a-8caa-7d00d29e0ea0)
+
 The process of producing coherent, context-aware text using a trained model
 
 Involves predicting the next word/token based on previous ones
 
 **🔍 How Text Generation Works:**
+
+![WhatsApp Image 2025-05-17 at 12 43 49 PM](https://github.com/user-attachments/assets/7200c5a6-52f5-46d4-a250-1c6f9addb937)
 
 Input prompt is tokenized
 
