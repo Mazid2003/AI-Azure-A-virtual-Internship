@@ -32,6 +32,8 @@ It involves multiple layers (deep neural networks) to model complex patterns in 
 
 **📚 Some Reference Materials:**
 
+![WhatsApp Image 2025-05-17 at 12 43 48 PM (2)](https://github.com/user-attachments/assets/8697e61d-8f74-4269-ae68-0103a888fc04)
+
 - Coursera Deep Learning Specialization by Andrew Ng
 
 - TensorFlow and PyTorch official documentation
@@ -41,6 +43,8 @@ It involves multiple layers (deep neural networks) to model complex patterns in 
 - Books: "Deep Learning" by Ian Goodfellow
 
 **🤖 What is Generative AI?**
+
+![WhatsApp Image 2025-05-17 at 12 43 48 PM (1)](https://github.com/user-attachments/assets/371b29e0-82a4-41d2-9cd6-3da1cd082f5d)
 
 Generative AI refers to systems that can create new content — text, images, audio, code — by learning patterns from existing data.
 
