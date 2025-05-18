@@ -1,4 +1,4 @@
-**🗓 Day 4: Deep Learning & Generative AI**
+**🗓 Day 3: Deep Learning & Generative AI**
 
 Date: 15/05/2025
 
