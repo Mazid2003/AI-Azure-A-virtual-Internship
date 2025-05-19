@@ -3,7 +3,7 @@
 Date: 16/05/2025
 
 **Description:**
-- Day 2 of the internship focused on clarifying doubts related to the course structure, project details, and the overall workflow of the internship.
+- Day 4 of the internship focused on clarifying doubts related to the course structure, project details, and the overall workflow of the internship.
 
 **Key Highlights:**
 
