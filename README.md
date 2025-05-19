@@ -44,3 +44,11 @@ This repository documents my daily progress and learnings from the **4-week Virt
 - Project Demo
 ---
 [offer_letter.pdf](https://github.com/user-attachments/files/20241340/offer_letter.pdf)
+
+👨‍💻 Author
+
+Created by Mohammad Mazid
+
+Email:mazidmd750@gmail.com
+
+Linkedin: https://www.linkedin.com/in/mohammadmazid
