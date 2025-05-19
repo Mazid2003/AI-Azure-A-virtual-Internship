@@ -4,7 +4,7 @@ Date: 15/05/2025
 
 **Summary:**
 
-Today's session focused on the advanced concepts of Deep Learning and the trending domain of Generative AI. We explored how deep learning powers intelligent systems and how generative models are shaping the future of creativity and automation.
+This session focused on the advanced concepts of Deep Learning and the trending domain of Generative AI. We explored how deep learning powers intelligent systems and how generative models are shaping the future of creativity and automation.
 
 **Topics Covered:**
 
