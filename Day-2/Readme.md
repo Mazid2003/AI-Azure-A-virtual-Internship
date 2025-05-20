@@ -138,15 +138,22 @@ Enhances decision-making capabilities
 Supervised Learning(labelled data)
 - Regression
   
-        - Simple linear 
-        - Multiple linear 
-        - Decision Tree
-        - Random Forest
-        - Support Vector
+        - Simple linear regression
+        - Multiple linear regression
+        - Decision Tree regression
+        - Random Forest 
+        - Support Vector regression
+        - Lasso
+        - Ridge
+  
 - Classification
   
         - Binary
         - Multi Class
+        - Decision Tree
+        - Support vector machines
+        - KNN
+        - Naive Bayes
         
 Unsupervised Learning(unlabelled data)
 - Clustering
