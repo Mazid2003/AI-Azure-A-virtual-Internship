@@ -40,7 +40,7 @@ Explored practical use cases in agriculture, healthcare, finance, and e-commerce
 **Supervised Learning – In Depth:**
 ![WhatsApp Image 2025-05-21 at 9 24 40 AM (1)](https://github.com/user-attachments/assets/ed2e9b0c-401c-4275-a404-9873b695e980)
 
-**Unsupervised Learning **
+**Unsupervised Learning**
 
 ![WhatsApp Image 2025-05-21 at 9 24 41 AM](https://github.com/user-attachments/assets/f4119d06-b599-4dde-aefb-06ddc7083e2e)
 
