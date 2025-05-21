@@ -29,7 +29,7 @@ Explored practical use cases in agriculture, healthcare, finance, and e-commerce
 
 **Types of Machine Learning:**
 
-![Uploading WhatsApp Image 2025-05-21 at 9.24.40 AM.jpeg…]()
+![WhatsApp Image 2025-05-21 at 9 24 40 AM](https://github.com/user-attachments/assets/0f50b40a-3faf-44bd-bcf9-1e2fd434d34a)
 
       - Supervised Learning (uses labeled data)
 
@@ -37,24 +37,34 @@ Explored practical use cases in agriculture, healthcare, finance, and e-commerce
 
       - Reinforcement Learning (decision making via rewards/punishments)
 
-Supervised Learning – In Depth:
+**Supervised Learning – In Depth:**
+![WhatsApp Image 2025-05-21 at 9 24 40 AM (1)](https://github.com/user-attachments/assets/ed2e9b0c-401c-4275-a404-9873b695e980)
 
+**Unsupervised Learning **
 
-Unsupervised Learning 
+![WhatsApp Image 2025-05-21 at 9 24 41 AM](https://github.com/user-attachments/assets/f4119d06-b599-4dde-aefb-06ddc7083e2e)
 
+**Reinforcement Learning**
 
-Reinforcement Learning
-
+![WhatsApp Image 2025-05-21 at 9 24 42 AM](https://github.com/user-attachments/assets/fbaa9e19-f327-42f1-be41-5a4ebaf80354)
 
 **Types of Supervised Learining**
 
-Regression vs Classification
+![WhatsApp Image 2025-05-21 at 9 24 43 AM](https://github.com/user-attachments/assets/884baa8d-ae56-47ed-8f47-c1ab03debb8b)
+
+**Regression vs Classification**
+
+![WhatsApp Image 2025-05-21 at 9 24 43 AM (1)](https://github.com/user-attachments/assets/8682954f-d1a7-432c-9e96-c57a751dbc77)
 
 Use cases: price prediction, sentiment analysis, spam detection, etc.
 
-Types of Algorithms:
+**Types of Algorithms:**
 
 Linear Regression
+
+![WhatsApp Image 2025-05-21 at 9 24 43 AM (2)](https://github.com/user-attachments/assets/79d8455c-7e0c-4b26-ade1-92f41fc53ac0)
+
+![WhatsApp Image 2025-05-21 at 9 24 44 AM](https://github.com/user-attachments/assets/2a212b30-bc84-4c55-96a5-8c5d4f6057bc)
 
 Decision Trees
 
@@ -62,8 +72,11 @@ K-Nearest Neighbors (KNN)
 
 Support Vector Machines (SVM)
 
+![WhatsApp Image 2025-05-21 at 9 25 20 AM](https://github.com/user-attachments/assets/e84ebaac-7d2f-4077-8e1b-5c29dc85d16b)
 
-💻 Hands-On Project: House Price Prediction using Linear Regression
+💻 Hands-On Project: 
+
+![WhatsApp Image 2025-05-21 at 9 35 15 AM](https://github.com/user-attachments/assets/985c409c-8c14-43d3-beea-9ad829491829)
 
 Key Learnings:
 
