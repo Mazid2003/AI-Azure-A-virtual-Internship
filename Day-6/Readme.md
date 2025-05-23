@@ -6,9 +6,15 @@ This session introduced us to the rapidly evolving world of Generative AI (Gen A
 
 **🤖 What is Generative AI?**
 
+![WhatsApp Image 2025-05-23 at 11 58 19 AM](https://github.com/user-attachments/assets/e22d9b4c-ca87-4d06-b968-29a931983173)
+
 Generative AI refers to models that can create new content such as text, images, code, and audio. These models learn from vast datasets and generate outputs that mimic human-like creativity and intelligence.
 
+![WhatsApp Image 2025-05-23 at 11 58 40 AM (1)](https://github.com/user-attachments/assets/d4f1b33d-5b02-45c9-8ee7-822d38f05cb6)
+
 **🌍 Applications of Generative AI**
+
+![WhatsApp Image 2025-05-23 at 11 58 20 AM](https://github.com/user-attachments/assets/21cd5bcc-8ef0-4129-a19c-2d426573a79b)
 
 Content Creation: Blog writing, social media content, marketing copy.
 
@@ -21,6 +27,8 @@ Data Augmentation: Expanding training datasets.
 Assistants: Virtual agents, chatbots, copilots.
 
 **🛠️ Generative AI Tools Explored**
+
+![WhatsApp Image 2025-05-23 at 11 58 30 AM](https://github.com/user-attachments/assets/7ddf39cb-0bf1-4169-bcae-200e71ee953e)
 
 MS Copilot: Assists in document writing, spreadsheet analysis, and code generation within Microsoft 365.
 
