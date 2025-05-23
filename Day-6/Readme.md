@@ -1,4 +1,4 @@
-**Day-6:Generative AI**
+**🗓 Day-6:Generative AI**
 
 Date:22/05/2025
 
