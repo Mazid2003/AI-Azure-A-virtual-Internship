@@ -11,4 +11,4 @@ Types of projects we can do for the successful completion of the internship are.
 - Deep Learning
 - Natural Language Processing
 - chatbots
-- 
+- Generative AI (like GPT's)
