@@ -6,4 +6,9 @@ This session is all about clarifying doubt's and explaining the things abour how
 
 what kind of project should we submit etc
 
-Tyoes of projects we can do...
+Types of projects we can do for the successful completion of the internship are...
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- chatbots
+- 
