@@ -16,13 +16,13 @@ Uses the sigmoid function to map any real-valued number into a probability betwe
 
 **Equation:**
  
-Pros:
+**Pros:**
 
 Simple and fast
 
 Interpretable coefficients
 
-Use Case:
+**Use Case:**
 
 Email spam detection
 
@@ -40,13 +40,13 @@ For a new point, find the K closest training samples using distance metrics (e.g
 
 Assign the majority class among them
 
-Pros:
+**Pros:**
 
 Simple and intuitive
 
 No training phase (lazy learner)
 
-Cons:
+**Cons:**
 
 Slow with large datasets
 
@@ -62,13 +62,13 @@ Split the dataset using the best feature (based on Gini Impurity or Information 
 
 Repeat recursively to form a tree
 
-Pros:
+**Pros:**
 
 Easy to visualize and interpret
 
 Handles both numerical and categorical data
 
-Cons:
+**Cons:**
 
 Can overfit if not pruned
 
