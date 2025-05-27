@@ -78,7 +78,7 @@ Unstable with small data changes
 
 Purpose: An ensemble of decision trees that improves performance through bagging.
 
-How it works:
+**How it works:**
 
 Builds many decision trees on random subsets of data
 
@@ -96,7 +96,8 @@ Less interpretable than a single tree
 
 Computationally intensive
 
-📏 Evaluation Metrics
+**📏 Evaluation Metrics**
+
 📊 Classification Metrics
 Metric	Description
 Accuracy	
