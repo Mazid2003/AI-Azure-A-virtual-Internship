@@ -32,7 +32,7 @@ Disease classification (yes/no)
 
 Purpose: Classifies a data point based on the majority class of its K nearest neighbors.
 
-Working:
+**Working:**
 
 Store all data during training
 
@@ -52,10 +52,11 @@ Slow with large datasets
 
 Sensitive to noisy data and irrelevant features
 
-3. 🔹 Decision Tree
+**3. 🔹 Decision Tree**
+
 Purpose: Uses a tree structure to make decisions based on features.
 
-How it works:
+**How it works:**
 
 Split the dataset using the best feature (based on Gini Impurity or Information Gain)
 
@@ -73,7 +74,8 @@ Can overfit if not pruned
 
 Unstable with small data changes
 
-4. 🔹 Random Forest
+**4. 🔹 Random Forest**
+
 Purpose: An ensemble of decision trees that improves performance through bagging.
 
 How it works:
