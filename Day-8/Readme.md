@@ -98,7 +98,8 @@ Computationally intensive
 
 **📏 Evaluation Metrics**
 
-📊 Classification Metrics
+**📊 Classification Metrics**
+
 Metric	Description
 Accuracy	
 Correct Predictions
@@ -137,7 +138,7 @@ P+R
 Confusion Matrix	Table showing TP, TN, FP, FN counts
 ROC-AUC Score	Measures performance across all classification thresholds
 
-📉 Regression Metrics (for context)
+**📉 Regression Metrics (for context)**
 Metric	Description
 MAE (Mean Absolute Error)	Average absolute difference between predicted and actual
 MSE (Mean Squared Error)	Average squared difference (penalizes larger errors)
