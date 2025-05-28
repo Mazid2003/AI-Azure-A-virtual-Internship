@@ -120,49 +120,24 @@ Computationally intensive
 
 **📏 Evaluation Metrics**
 
-**📊 Classification Metrics**
+![WhatsApp Image 2025-05-27 at 10 44 05 PM (1)](https://github.com/user-attachments/assets/654f5569-7dc1-4276-b22b-bf4ec01c3a7e)
 
-Metric	Description
-Accuracy	
-Correct Predictions
-Total Predictions
-Total Predictions
-Correct Predictions
-​
- 
-Precision	
-TP
-TP + FP
-TP + FP
-TP
-​
-  – How many predicted positives were correct
-Recall (Sensitivity)	
-TP
-TP + FN
-TP + FN
-TP
-​
-  – How many actual positives were caught
-F1 Score	Harmonic mean of Precision and Recall: 
-2
-⋅
-𝑃
-⋅
-𝑅
-𝑃
-+
-𝑅
-P+R
-2⋅P⋅R
-​
- 
-Confusion Matrix	Table showing TP, TN, FP, FN counts
-ROC-AUC Score	Measures performance across all classification thresholds
+**📊 Classification Metrics**
+```    
+| Metric                   | Description                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| **Accuracy**             | $\frac{\text{Correct Predictions}}{\text{Total Predictions}}$                  |
+| **Precision**            | $\frac{\text{TP}}{\text{TP + FP}}$ – How many predicted positives were correct |
+| **Recall (Sensitivity)** | $\frac{\text{TP}}{\text{TP + FN}}$ – How many actual positives were caught     |
+| **F1 Score**             | Harmonic mean of Precision and Recall: $\frac{2 \cdot P \cdot R}{P + R}$       |
+| **Confusion Matrix**     | Table showing TP, TN, FP, FN counts                                            |
+| **ROC-AUC Score**        | Measures performance across all classification thresholds                      |
+
 
 **📉 Regression Metrics (for context)**
-Metric	Description
-MAE (Mean Absolute Error)	Average absolute difference between predicted and actual
-MSE (Mean Squared Error)	Average squared difference (penalizes larger errors)
-RMSE (Root Mean Squared Error)	Square root of MSE
-R² Score	Proportion of variance explained by the model
+| Metric                             | Description                                              |
+| ---------------------------------- | -------------------------------------------------------- |
+| **MAE (Mean Absolute Error)**      | Average absolute difference between predicted and actual |
+| **MSE (Mean Squared Error)**       | Average squared difference (penalizes larger errors)     |
+| **RMSE (Root Mean Squared Error)** | Square root of MSE                                       |
+| **R² Score**                       | Proportion of variance explained by the model            |
