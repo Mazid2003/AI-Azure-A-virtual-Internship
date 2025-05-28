@@ -126,7 +126,9 @@ Computationally intensive
 ```    
 | Metric                   | Description                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------ |
-| **Accuracy**             | $\frac{\text{Correct Predictions}}{\text{Total Predictions}}$                  |
+| **Accuracy**             | Total Predictions
+                            Correct Predictions
+                  
 | **Precision**            | $\frac{\text{TP}}{\text{TP + FP}}$ – How many predicted positives were correct |
 | **Recall (Sensitivity)** | $\frac{\text{TP}}{\text{TP + FN}}$ – How many actual positives were caught     |
 | **F1 Score**             | Harmonic mean of Precision and Recall: $\frac{2 \cdot P \cdot R}{P + R}$       |
