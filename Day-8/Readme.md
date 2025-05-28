@@ -106,13 +106,13 @@ Builds many decision trees on random subsets of data
 
 Uses majority voting to decide the final class
 
-Pros:
+**Pros:**
 
 More accurate and robust than single trees
 
 Handles overfitting better
 
-Cons:
+**Cons:**
 
 Less interpretable than a single tree
 
