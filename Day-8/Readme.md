@@ -123,7 +123,7 @@ Computationally intensive
 ![WhatsApp Image 2025-05-27 at 10 44 05 PM (1)](https://github.com/user-attachments/assets/654f5569-7dc1-4276-b22b-bf4ec01c3a7e)
 
 **📊 Classification Metrics**
-```    
+   
 | Metric                   | Description                                                |
 | ------------------------ | ---------------------------------------------------------- |
 | **Accuracy**             | Total Predictions/Correct Predictions(TP+TN/TP+TN+FP+FN)
