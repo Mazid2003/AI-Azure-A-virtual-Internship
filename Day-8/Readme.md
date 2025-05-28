@@ -72,6 +72,8 @@ Sensitive to noisy data and irrelevant features
 
 **3. 🔹 Decision Tree**
 
+![WhatsApp Image 2025-05-27 at 10 44 06 PM (1)](https://github.com/user-attachments/assets/8d01795a-78bd-4503-86eb-98f7fea94230)
+
 Purpose: Uses a tree structure to make decisions based on features.
 
 **How it works:**
@@ -93,6 +95,8 @@ Can overfit if not pruned
 Unstable with small data changes
 
 **4. 🔹 Random Forest**
+
+![WhatsApp Image 2025-05-27 at 10 44 06 PM](https://github.com/user-attachments/assets/d02932a1-443d-4355-8045-bfc5eccb5a6f)
 
 Purpose: An ensemble of decision trees that improves performance through bagging.
 
