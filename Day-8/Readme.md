@@ -4,9 +4,13 @@ Date:27/05/2025
 
 **🧠 Classification Models**
 
+![WhatsApp Image 2025-05-27 at 10 44 05 PM](https://github.com/user-attachments/assets/c0a29712-3c0f-489d-ba8d-8c078a4170f8)
+
 Classification models are supervised machine learning algorithms that predict discrete class labels (e.g., yes/no, spam/ham, positive/negative). These are widely used in fields like medical diagnosis, fraud detection, and sentiment analysis.
 
 **1. 🔹 Logistic Regression**
+
+![WhatsApp Image 2025-05-27 at 10 44 07 PM (1)](https://github.com/user-attachments/assets/62e21f45-e7cd-41e0-b1f0-b2d296b06864)
 
 Purpose: Predicts the probability that a given input belongs to a particular category.
 
@@ -15,6 +19,18 @@ Despite its name, it's used for classification, not regression.
 Uses the sigmoid function to map any real-valued number into a probability between 0 and 1.
 
 **Equation:**
+
+P(Y = 1 | X) = 1 / (1 + e^-(β0 + β1*X1 + β2*X2 + ... + βn*Xn))
+
+**Explanation:**
+
+P(Y = 1 | X) → Probability that the output is class 1 given input features X
+
+β0 → Intercept (bias term)
+
+β1, β2, ..., βn → Coefficients for features X1, X2, ..., Xn
+
+e → Euler's number (≈ 2.718)
  
 **Pros:**
 
@@ -29,6 +45,8 @@ Email spam detection
 Disease classification (yes/no)
 
 **2. 🔹 K-Nearest Neighbors (KNN)**
+
+![WhatsApp Image 2025-05-27 at 10 44 07 PM](https://github.com/user-attachments/assets/55765ca8-6d26-4454-b4b7-b7b226375e8e)
 
 Purpose: Classifies a data point based on the majority class of its K nearest neighbors.
 
