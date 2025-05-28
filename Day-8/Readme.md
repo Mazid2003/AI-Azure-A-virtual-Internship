@@ -126,8 +126,7 @@ Computationally intensive
    
 | Metric                   | Description                                                |
 | ------------------------ | ---------------------------------------------------------- |
-| **Accuracy**             | Total Predictions/Correct Predictions(TP+TN/TP+TN+FP+FN)
-                  
+| **Accuracy**             | Total Predictions/Correct Predictions(TP+TN/TP+TN+FP+FN)   |                  
 | **Precision**            | TP/TP+FP– How many predicted positives were correct        |
 | **Recall (Sensitivity)** | TP/TP + FN – How many actual positives were caught         |
 | **F1 Score**             | 2.P.R/P + R – Harmonic mean of Precision and Recall        |
