@@ -124,16 +124,15 @@ Computationally intensive
 
 **📊 Classification Metrics**
 ```    
-| Metric                   | Description                                                                    |
-| ------------------------ | ------------------------------------------------------------------------------ |
-| **Accuracy**             | Total Predictions
-                            Correct Predictions
+| Metric                   | Description                                                |
+| ------------------------ | ---------------------------------------------------------- |
+| **Accuracy**             | Total Predictions/Correct Predictions(TP+TN/TP+TN+FP+FN)
                   
-| **Precision**            | $\frac{\text{TP}}{\text{TP + FP}}$ – How many predicted positives were correct |
-| **Recall (Sensitivity)** | $\frac{\text{TP}}{\text{TP + FN}}$ – How many actual positives were caught     |
-| **F1 Score**             | Harmonic mean of Precision and Recall: $\frac{2 \cdot P \cdot R}{P + R}$       |
-| **Confusion Matrix**     | Table showing TP, TN, FP, FN counts                                            |
-| **ROC-AUC Score**        | Measures performance across all classification thresholds                      |
+| **Precision**            | TP/TP+FP– How many predicted positives were correct        |
+| **Recall (Sensitivity)** | TP/TP + FN – How many actual positives were caught         |
+| **F1 Score**             | 2.P.R/P + R – Harmonic mean of Precision and Recall        |
+| **Confusion Matrix**     | Table showing TP, TN, FP, FN counts                        |
+| **ROC-AUC Score**        | Measures performance across all classification thresholds  |
 
 
 **📉 Regression Metrics (for context)**
