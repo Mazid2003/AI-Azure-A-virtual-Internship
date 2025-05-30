@@ -11,7 +11,7 @@ Date:29/05/2025
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM](https://github.com/user-attachments/assets/c370371f-a0a5-4caf-8cae-5bad84942c0f)
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM (2)](https://github.com/user-attachments/assets/9b082d5e-1aec-475c-917d-badd356f6f3e)
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM (1)](https://github.com/user-attachments/assets/80e1aefb-6cb4-4630-8829-2eb82377e57c)
-![WhatsApp Image 2025-05-29 at 10 09 14 PM](https://github.com/user-attachments/assets/4e4c8126-7e1e-4801-af41-efac23d67a77)
+
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM](https://github.com/user-attachments/assets/e2839f66-feb6-471b-9ff8-e1be64635b60)
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM (1)](https://github.com/user-attachments/assets/d1cc2e88-7bf5-4131-9750-7debac252c3c)
 ![WhatsApp Image 2025-05-29 at 10 09 18 PM](https://github.com/user-attachments/assets/914d2d77-18d3-4cd9-98ab-6ac7a5ad83e6)
