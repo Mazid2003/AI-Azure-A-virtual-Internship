@@ -40,6 +40,8 @@ It is a core task in unsupervised learning used to identify natural groupings in
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (1)](https://github.com/user-attachments/assets/fb7327bc-4b54-403d-b507-4ccdb631cc0d)
 
+![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
+
 **1. ✅ K-Means Clustering**
 Partitioning algorithm that divides data into k clusters.
 
@@ -48,10 +50,28 @@ Works by minimizing the distance between data points and their cluster centroids
 Requires specifying k (number of clusters) in advance.
 
 Fast and efficient, but sensitive to outliers and shape of data.
-![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
 
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (3)](https://github.com/user-attachments/assets/ca6cf077-ba01-414d-ae81-5b806835859b)
+
+**2. 🧱 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+Clusters data based on density of points.
+
+Groups together closely packed points and marks low-density points as noise/outliers.
+
+Doesn’t require number of clusters beforehand.
+
+Can find arbitrarily shaped clusters and handles noise well.
+
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (2)](https://github.com/user-attachments/assets/4abf7c0e-e381-43f1-aa8b-d49fc6acccb4)
+
+**K-Means vs DBSCAN**
+| Feature             | K-Means                | DBSCAN                         |
+| ------------------- | ---------------------- | ------------------------------ |
+| Clusters Shape      | Spherical              | Arbitrary                      |
+| Need to specify `k` | Yes                    | No                             |
+| Handles Outliers    | Poor                   | Very good                      |
+| Based on Density    | No                     | Yes                            |
+| Performance         | Fast on large datasets | Slower on large noisy datasets |
 
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM (1)](https://github.com/user-attachments/assets/d1cc2e88-7bf5-4131-9750-7debac252c3c)
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM](https://github.com/user-attachments/assets/e2839f66-feb6-471b-9ff8-e1be64635b60)
