@@ -39,6 +39,15 @@ It is a core task in unsupervised learning used to identify natural groupings in
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (1)](https://github.com/user-attachments/assets/3c28fe2a-6ee5-445d-b939-2cc13c27c0d9)
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (1)](https://github.com/user-attachments/assets/fb7327bc-4b54-403d-b507-4ccdb631cc0d)
+
+**1. ✅ K-Means Clustering**
+Partitioning algorithm that divides data into k clusters.
+
+Works by minimizing the distance between data points and their cluster centroids.
+
+Requires specifying k (number of clusters) in advance.
+
+Fast and efficient, but sensitive to outliers and shape of data.
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
 
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (3)](https://github.com/user-attachments/assets/ca6cf077-ba01-414d-ae81-5b806835859b)
