@@ -25,6 +25,19 @@ Common tasks: Clustering, Dimensionality Reduction, Anomaly Detection.
 | Goal          | Predict output             | Discover patterns or groupings |
 | Examples      | Classification, Regression | Clustering, PCA                |
 
+**3. 🌲 Hierarchical Clustering**
+Builds a tree of clusters (dendrogram).
+
+Two types:
+
+Agglomerative: Bottom-up approach (merges clusters).
+
+Divisive: Top-down approach (splits clusters).
+
+No need to specify number of clusters initially.
+
+Good for visualizing relationships among data points.
+
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (2)](https://github.com/user-attachments/assets/f06aeebb-a66d-4925-8796-db32bc17b123)
 
 Clustering is the process of grouping a set of data points such that:
