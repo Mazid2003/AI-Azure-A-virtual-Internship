@@ -26,6 +26,15 @@ Common tasks: Clustering, Dimensionality Reduction, Anomaly Detection.
 | Examples      | Classification, Regression | Clustering, PCA                |
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (2)](https://github.com/user-attachments/assets/f06aeebb-a66d-4925-8796-db32bc17b123)
+
+Clustering is the process of grouping a set of data points such that:
+
+Points in the same group (cluster) are more similar to each other.
+
+Points in different clusters are dissimilar.
+
+It is a core task in unsupervised learning used to identify natural groupings in data.
+
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM](https://github.com/user-attachments/assets/c370371f-a0a5-4caf-8cae-5bad84942c0f)
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (1)](https://github.com/user-attachments/assets/3c28fe2a-6ee5-445d-b939-2cc13c27c0d9)
 
