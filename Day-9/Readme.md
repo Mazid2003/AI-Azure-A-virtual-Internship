@@ -3,7 +3,28 @@
 
 Date:29/05/2025
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM (2)](https://github.com/user-attachments/assets/9b082d5e-1aec-475c-917d-badd356f6f3e)
+
+Unsupervised Learning is a machine learning approach where the model is trained on unlabeled data.
+The algorithm tries to discover patterns, groupings, or structure in the input data without being given explicit labels or outputs.
+
+**Key Characteristics:**
+No labeled outputs.
+
+Goal is to explore data and find hidden structures.
+
+Common tasks: Clustering, Dimensionality Reduction, Anomaly Detection.
+
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM (1)](https://github.com/user-attachments/assets/80e1aefb-6cb4-4630-8829-2eb82377e57c)
+
+**Supervised vs Unsupervised**
+
+| Feature       | Supervised Learning        | Unsupervised Learning          |
+| ------------- | -------------------------- | ------------------------------ |
+| Data          | Labeled                    | Unlabeled                      |
+| Output Known? | Yes                        | No                             |
+| Goal          | Predict output             | Discover patterns or groupings |
+| Examples      | Classification, Regression | Clustering, PCA                |
+
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (2)](https://github.com/user-attachments/assets/f06aeebb-a66d-4925-8796-db32bc17b123)
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM](https://github.com/user-attachments/assets/c370371f-a0a5-4caf-8cae-5bad84942c0f)
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (1)](https://github.com/user-attachments/assets/3c28fe2a-6ee5-445d-b939-2cc13c27c0d9)
