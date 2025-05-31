@@ -103,5 +103,20 @@ Good for visualizing relationships among data points.
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM (1)](https://github.com/user-attachments/assets/d1cc2e88-7bf5-4131-9750-7debac252c3c)
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM](https://github.com/user-attachments/assets/e2839f66-feb6-471b-9ff8-e1be64635b60)
 
+**💼 Applications of Clustering**
+
+📦 Customer Segmentation in marketing.
+
+🛒 Market Basket Analysis for recommending products.
+
+📸 Image Compression by grouping similar pixel intensities.
+
+🔍 Anomaly Detection in fraud and cybersecurity.
+
+📚 Document Clustering for organizing news, research, or search results.
+
+🎯 Personalized Recommendations in apps and platforms.
+
+**Project**
 ![WhatsApp Image 2025-05-29 at 10 09 18 PM](https://github.com/user-attachments/assets/914d2d77-18d3-4cd9-98ab-6ac7a5ad83e6)
 
