@@ -41,14 +41,13 @@ It is a core task in unsupervised learning used to identify natural groupings in
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (1)](https://github.com/user-attachments/assets/fb7327bc-4b54-403d-b507-4ccdb631cc0d)
 
-Clustering Types:
-    -Partitioning → K-Means, K-Medoids<br>
-    -Hierarchical → Agglomerative, Divisive<br>
-    -Density-Based → DBSCAN, OPTICS<br>
-    -Grid-Based → STING, CLIQUE<br>
-    -Model-Based → GMM<br>
+Clustering Types:<br>
+    Partitioning → K-Means, K-Medoids<br>
+    Hierarchical → Agglomerative, Divisive<br>
+    Density-Based → DBSCAN, OPTICS<br>
+    Grid-Based → STING, CLIQUE<br>
+    Model-Based → GMM<br>
     
-
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
 
 **1. ✅ K-Means Clustering**
@@ -95,6 +94,19 @@ Divisive: Top-down approach (splits clusters).
 No need to specify number of clusters initially.
 
 Good for visualizing relationships among data points.
+
+| **Type**          | **Algorithm**    | **Key Idea**                                               | **Pros**                                            | **Cons**                                                      | **Best Use Cases**                            |
+| ----------------- | ---------------- | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------- |
+| **Partitioning**  | K-Means          | Divides data into *k* clusters minimizing variance         | Simple, scalable, fast                              | Sensitive to outliers, assumes spherical clusters             | Customer segmentation, Market basket analysis |
+|                   | K-Medoids        | Like K-Means but uses actual data points (medoids)         | Robust to outliers                                  | Slower than K-Means                                           | Medical datasets, Small datasets              |
+| **Hierarchical**  | Agglomerative    | Bottom-up merging of clusters                              | Dendrogram visual insight, no need to specify *k*   | Computationally expensive for large datasets                  | Gene expression data, Document clustering     |
+|                   | Divisive         | Top-down splitting of clusters                             | Captures nested clusters                            | Less common, complex                                          | Social network analysis                       |
+| **Density-Based** | DBSCAN           | Forms clusters from dense regions, marks noise as outliers | Finds arbitrarily shaped clusters, handles outliers | Struggles with varying densities, needs good eps/minPts setup | Anomaly detection, Geospatial data            |
+|                   | OPTICS           | Orders data to identify clusters of varying density        | Works with varied density, handles noise            | Slower, complex to interpret                                  | Customer behavior analysis                    |
+| **Grid-Based**    | STING            | Divides space into rectangular cells                       | Fast processing, efficient for large data           | Limited to low-dimensional data                               | Satellite image analysis                      |
+|                   | CLIQUE           | Combines density and grid-based approach                   | Detects clusters in subspaces                       | May miss irregular clusters                                   | High-dimensional data                         |
+| **Model-Based**   | Gaussian Mixture | Uses probability distributions and EM algorithm            | Soft clustering, flexible shapes                    | Computationally expensive, assumes distribution shape         | Image segmentation, Speech recognition        |
+
 
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM (1)](https://github.com/user-attachments/assets/d1cc2e88-7bf5-4131-9750-7debac252c3c)
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM](https://github.com/user-attachments/assets/e2839f66-feb6-471b-9ff8-e1be64635b60)
