@@ -42,11 +42,11 @@ It is a core task in unsupervised learning used to identify natural groupings in
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (1)](https://github.com/user-attachments/assets/fb7327bc-4b54-403d-b507-4ccdb631cc0d)
 
 Clustering Types:
-    -Partitioning → K-Means, K-Medoids
-    -Hierarchical → Agglomerative, Divisive
-    -Density-Based → DBSCAN, OPTICS
-    -Grid-Based → STING, CLIQUE
-    -Model-Based → GMM
+    -Partitioning → K-Means, K-Medoids<br>
+    -Hierarchical → Agglomerative, Divisive<br>
+    -Density-Based → DBSCAN, OPTICS<br>
+    -Grid-Based → STING, CLIQUE<br>
+    -Model-Based → GMM<br>
     
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
