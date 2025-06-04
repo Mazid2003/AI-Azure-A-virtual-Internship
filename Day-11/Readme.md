@@ -54,7 +54,7 @@ Output layer: Produces final prediction/classification.
 
 ![WhatsApp Image 2025-06-04 at 7 08 02 AM](https://github.com/user-attachments/assets/91380fef-9e2a-4afa-bd6b-4ffe321ad687)
 
-🧬 Components of an Artificial Neuron
+**🧬 Components of an Artificial Neuron**
 
 ![WhatsApp Image 2025-06-04 at 7 08 03 AM (1)](https://github.com/user-attachments/assets/1f65b1bb-b9eb-44f4-889a-4d2c3086da6b)
 
@@ -67,6 +67,10 @@ Bias (b)
 Activation function (σ)
 
 Output: y = σ(w₁x₁ + w₂x₂ + ... + wₙxₙ + b)
+
+**Working of ANN:**
+
+![WhatsApp Image 2025-06-04 at 7 08 04 AM](https://github.com/user-attachments/assets/1560cff9-7f9b-4339-853d-3ff07e7905e4)
 
 **🔹 Single Neuron**
 
@@ -110,10 +114,6 @@ Gradients are computed using chain rule
 
 Weights are updated using gradient descent
 
-**Working of ANN:**
-
-![WhatsApp Image 2025-06-04 at 7 08 04 AM](https://github.com/user-attachments/assets/1560cff9-7f9b-4339-853d-3ff07e7905e4)
-
 **⌛ Epochs & Batch Size**
 
 ![WhatsApp Image 2025-06-04 at 7 08 03 AM (3)](https://github.com/user-attachments/assets/1fc030ab-d555-49a7-9e03-3e79a0445365)
@@ -127,8 +127,6 @@ Batch Size: Number of training examples processed before the model updates weigh
 ![WhatsApp Image 2025-06-04 at 7 08 06 AM](https://github.com/user-attachments/assets/2b19b846-fa5d-479d-853b-3ad497c7b329)
 
 **🔧 Network Structure**
-
-![WhatsApp Image 2025-06-04 at 7 08 00 AM](https://github.com/user-attachments/assets/cd9eadee-8550-4561-a3ef-cb29995c1968)
 
 Number of Hidden Layers and Neurons: Controls model capacity.
 
