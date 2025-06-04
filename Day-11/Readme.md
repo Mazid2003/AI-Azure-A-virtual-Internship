@@ -4,9 +4,13 @@ Date: 3/06/2025
 
 **📌 What is Deep Learning?**
 
+![WhatsApp Image 2025-06-04 at 7 08 01 AM (2)](https://github.com/user-attachments/assets/99e3dd76-82ef-40df-99c5-64607c2a321d)
+
 Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers (deep neural networks) to model complex patterns in large datasets. It is especially useful for tasks such as image recognition, speech processing, and natural language understanding.
 
 **🤔 Why Deep Learning?**
+
+![WhatsApp Image 2025-06-04 at 7 08 01 AM (1)](https://github.com/user-attachments/assets/7c1c1c1c-84d8-4ccb-b970-6ce958054721)
 
 Capable of automatically learning features from raw data.
 
