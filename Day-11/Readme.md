@@ -128,6 +128,8 @@ Batch Size: Number of training examples processed before the model updates weigh
 
 **🔧 Network Structure**
 
+![WhatsApp Image 2025-06-04 at 7 08 05 AM (2)](https://github.com/user-attachments/assets/0db50509-be00-4821-a37b-8a60eebd0bb7)
+
 Number of Hidden Layers and Neurons: Controls model capacity.
 
 ![WhatsApp Image 2025-06-04 at 7 08 05 AM (1)](https://github.com/user-attachments/assets/c2f9a2f4-fada-4160-9106-8c4aaa730242)
