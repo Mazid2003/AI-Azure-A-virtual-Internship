@@ -46,6 +46,18 @@ Azure Queue Storage: Messaging for distributed applications.
 
 Azure Table Storage: NoSQL key-value store for rapid development.
 
+**🗃️ Azure Databases**
+
+A wide selection of managed database services:
+
+Azure SQL Database: Managed relational database based on SQL Server.
+
+Azure Cosmos DB: Globally distributed NoSQL database.
+
+Azure Database for MySQL/PostgreSQL: Fully managed open-source databases.
+
+Azure Table Storage: Lightweight NoSQL key-value storage.
+
 **🧠 Azure AI and Machine Learning**
 
 Azure enables developers and data scientists to build intelligent applications:
@@ -72,15 +84,4 @@ HDInsight: Managed cloud Hadoop and Spark services.
 
 Power BI Embedded: Embed rich, interactive reports into applications.
 
-**🗃️ Azure Databases**
-
-A wide selection of managed database services:
-
-Azure SQL Database: Managed relational database based on SQL Server.
-
-Azure Cosmos DB: Globally distributed NoSQL database.
-
-Azure Database for MySQL/PostgreSQL: Fully managed open-source databases.
-
-Azure Table Storage: Lightweight NoSQL key-value storage.
 
