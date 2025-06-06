@@ -2,9 +2,11 @@
 
 Date: 05/06/2025
 
+**What is MIcrosoft Azure?**
 Microsoft Azure is a cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, storage, databases, networking, artificial intelligence, analytics, and more. Azure allows individuals and businesses to build, deploy, and manage applications through Microsoft's global network of data centers.
 
-🚀 Key Features of Microsoft Azure
+**🚀 Key Features of Microsoft Azure**
+
 Scalability: Automatically scale your applications to meet demand.
 
 Flexibility: Supports various operating systems, programming languages, frameworks, databases, and devices.
@@ -17,7 +19,8 @@ Pay-as-you-go: Cost-efficient pricing model based on usage.
 
 Hybrid Capability: Seamless integration of on-premise and cloud environments.
 
-🖥️ Azure Compute Services
+**🖥️ Azure Compute Services**
+
 Azure offers powerful compute services to run applications and services:
 
 Azure Virtual Machines (VMs): Run Windows or Linux virtual machines.
@@ -30,7 +33,8 @@ Azure Kubernetes Service (AKS): Manage containerized applications using Kubernet
 
 Azure Batch: Large-scale parallel and high-performance computing (HPC) workloads.
 
-🗄️ Azure Storage Services
+**🗄️ Azure Storage Services**
+
 Azure provides secure and scalable storage solutions:
 
 Azure Blob Storage: Store unstructured data like images, videos, backups, etc.
@@ -41,7 +45,8 @@ Azure Queue Storage: Messaging for distributed applications.
 
 Azure Table Storage: NoSQL key-value store for rapid development.
 
-🧠 Azure AI and Machine Learning
+**🧠 Azure AI and Machine Learning**
+
 Azure enables developers and data scientists to build intelligent applications:
 
 Azure Machine Learning: End-to-end machine learning lifecycle support.
@@ -52,7 +57,8 @@ Bot Services: Build intelligent, serverless chatbots.
 
 OpenAI Service: Access to models like GPT for advanced AI applications.
 
-📊 Azure Analytics and Big Data
+**📊 Azure Analytics and Big Data**
+
 Tools for data-driven insights and large-scale analytics:
 
 Azure Synapse Analytics: Integrates big data and data warehousing.
@@ -65,7 +71,8 @@ HDInsight: Managed cloud Hadoop and Spark services.
 
 Power BI Embedded: Embed rich, interactive reports into applications.
 
-🗃️ Azure Databases
+**🗃️ Azure Databases**
+
 A wide selection of managed database services:
 
 Azure SQL Database: Managed relational database based on SQL Server.
