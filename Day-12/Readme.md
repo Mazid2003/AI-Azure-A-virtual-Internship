@@ -3,6 +3,7 @@
 Date: 05/06/2025
 
 **What is MIcrosoft Azure?**
+
 Microsoft Azure is a cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, storage, databases, networking, artificial intelligence, analytics, and more. Azure allows individuals and businesses to build, deploy, and manage applications through Microsoft's global network of data centers.
 
 **🚀 Key Features of Microsoft Azure**
