@@ -2,11 +2,15 @@
 
 Date: 05/06/2025
 
-**What is MIcrosoft Azure?**
+**What is Microsoft Azure?**
+
+![WhatsApp Image 2025-06-06 at 8 10 55 AM (1)](https://github.com/user-attachments/assets/23d7ef67-c9a4-4020-9624-a0e747148d9a)
 
 Microsoft Azure is a cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, storage, databases, networking, artificial intelligence, analytics, and more. Azure allows individuals and businesses to build, deploy, and manage applications through Microsoft's global network of data centers.
 
 **🚀 Key Features of Microsoft Azure**
+
+![WhatsApp Image 2025-06-06 at 8 10 55 AM](https://github.com/user-attachments/assets/1ce5400d-92c1-4eb6-888a-96ef0488a70d)
 
 Scalability: Automatically scale your applications to meet demand.
 
@@ -22,6 +26,8 @@ Hybrid Capability: Seamless integration of on-premise and cloud environments.
 
 **🖥️ Azure Compute Services**
 
+![WhatsApp Image 2025-06-06 at 8 10 54 AM (2)](https://github.com/user-attachments/assets/e08f24de-fec2-420a-9f8c-61112efa747b)
+
 Azure offers powerful compute services to run applications and services:
 
 Azure Virtual Machines (VMs): Run Windows or Linux virtual machines.
@@ -36,6 +42,8 @@ Azure Batch: Large-scale parallel and high-performance computing (HPC) workloads
 
 **🗄️ Azure Storage Services**
 
+![WhatsApp Image 2025-06-06 at 8 10 54 AM (1)](https://github.com/user-attachments/assets/4a8edf1e-ad17-49ea-8547-b2f29cf16979)
+
 Azure provides secure and scalable storage solutions:
 
 Azure Blob Storage: Store unstructured data like images, videos, backups, etc.
@@ -47,6 +55,8 @@ Azure Queue Storage: Messaging for distributed applications.
 Azure Table Storage: NoSQL key-value store for rapid development.
 
 **🗃️ Azure Databases**
+
+![WhatsApp Image 2025-06-06 at 8 10 54 AM](https://github.com/user-attachments/assets/2c05910c-e0a4-4cac-8aa9-1651d54a0cb7)
 
 A wide selection of managed database services:
 
@@ -60,6 +70,8 @@ Azure Table Storage: Lightweight NoSQL key-value storage.
 
 **🧠 Azure AI and Machine Learning**
 
+![WhatsApp Image 2025-06-06 at 8 10 52 AM](https://github.com/user-attachments/assets/4b10acb1-86d7-499c-a61d-a171ad1de961)
+
 Azure enables developers and data scientists to build intelligent applications:
 
 Azure Machine Learning: End-to-end machine learning lifecycle support.
@@ -71,6 +83,8 @@ Bot Services: Build intelligent, serverless chatbots.
 OpenAI Service: Access to models like GPT for advanced AI applications.
 
 **📊 Azure Analytics and Big Data**
+
+![WhatsApp Image 2025-06-06 at 8 10 48 AM](https://github.com/user-attachments/assets/d91e315b-a8f6-4683-ae08-8dbc5b16ac63)
 
 Tools for data-driven insights and large-scale analytics:
 
