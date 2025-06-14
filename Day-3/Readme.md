@@ -1,14 +1,14 @@
-**🗓 Day 3: Deep Learning & Generative AI**
+# 🗓 Day 3: Deep Learning & Generative AI
 
 Date: 15/05/2025
 
-**Summary:**
+## Summary:
 
 This session focused on the advanced concepts of Deep Learning and the trending domain of Generative AI. We explored how deep learning powers intelligent systems and how generative models are shaping the future of creativity and automation.
 
-**Topics Covered:**
+## Topics Covered:
 
-**🧠 What is Deep Learning?**
+### 🧠 What is Deep Learning?
 
 ![WhatsApp Image 2025-05-17 at 12 43 53 PM (1)](https://github.com/user-attachments/assets/17d045df-a6f6-4cf6-a18e-665569391077)
 
@@ -16,7 +16,7 @@ Deep Learning is a subset of Machine Learning inspired by the structure of the h
 
 It involves multiple layers (deep neural networks) to model complex patterns in large datasets.
 
-**🚀 Applications of Deep Learning:**
+### 🚀 Applications of Deep Learning:
 
 ![WhatsApp Image 2025-05-17 at 12 43 47 PM (1)](https://github.com/user-attachments/assets/7c815d60-8783-4c8e-ad6a-f849dfdd66f0)
 
@@ -30,7 +30,7 @@ It involves multiple layers (deep neural networks) to model complex patterns in 
 
 - Finance: Credit scoring, fraud detection
 
-**📚 Some Reference Materials:**
+### 📚 Some Reference Materials:
 
 ![WhatsApp Image 2025-05-17 at 12 43 48 PM (2)](https://github.com/user-attachments/assets/8697e61d-8f74-4269-ae68-0103a888fc04)
 
@@ -42,7 +42,7 @@ It involves multiple layers (deep neural networks) to model complex patterns in 
 
 - Books: "Deep Learning" by Ian Goodfellow
 
-**🤖 What is Generative AI?**
+### 🤖 What is Generative AI?
 
 ![WhatsApp Image 2025-05-17 at 12 43 48 PM (1)](https://github.com/user-attachments/assets/371b29e0-82a4-41d2-9cd6-3da1cd082f5d)
 
@@ -50,7 +50,7 @@ Generative AI refers to systems that can create new content — text, images, au
 
 Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
-**🧩 Applications of Generative AI:**
+### 🧩 Applications of Generative AI:
 
 ![WhatsApp Image 2025-05-17 at 12 43 48 PM](https://github.com/user-attachments/assets/01783fb7-fdc0-4b59-ae35-62c81282c33d)
 
@@ -64,7 +64,7 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
 - Healthcare: Drug discovery, report generation
 
-**🛠 Generative AI Tools:**
+### 🛠 Generative AI Tools:
 
 ![WhatsApp Image 2025-05-17 at 12 43 47 PM (2)](https://github.com/user-attachments/assets/1d566bb2-c328-459a-8dd9-a1e452082255)
 
