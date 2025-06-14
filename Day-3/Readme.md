@@ -78,7 +78,7 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
 - Hugging Face Transformers
 
-**⚙️ How Generative AI Works:**
+### ⚙️ How Generative AI Works:
 
 ![WhatsApp Image 2025-05-17 at 12 43 50 PM (1)](https://github.com/user-attachments/assets/b3fa21b7-55cf-44ce-87a6-f6e8d2562dcd)
 
@@ -88,7 +88,7 @@ Examples include ChatGPT, DALL·E, Bard, Midjourney, etc.
 
 - Uses probabilistic modeling to generate new, coherent content
 
-**🧠 Large Language Models (LLMs):**
+### 🧠 Large Language Models (LLMs):
 
 ![WhatsApp Image 2025-05-17 at 12 43 50 PM](https://github.com/user-attachments/assets/828b59b6-8ce1-486a-975e-8d05a1f26644)
 
@@ -96,7 +96,7 @@ LLMs like GPT-4, BERT, LLaMA, and PaLM are deep learning models trained on billi
 
 They understand and generate human-like text across domains
 
-**✍️ Text Generation:**
+### ✍️ Text Generation:
 
 ![WhatsApp Image 2025-05-17 at 12 43 49 PM (1)](https://github.com/user-attachments/assets/0874040b-65e4-480a-8caa-7d00d29e0ea0)
 
@@ -104,7 +104,7 @@ The process of producing coherent, context-aware text using a trained model
 
 Involves predicting the next word/token based on previous ones
 
-**🔍 How Text Generation Works:**
+### 🔍 How Text Generation Works:
 
 ![WhatsApp Image 2025-05-17 at 12 43 49 PM](https://github.com/user-attachments/assets/7200c5a6-52f5-46d4-a250-1c6f9addb937)
 
