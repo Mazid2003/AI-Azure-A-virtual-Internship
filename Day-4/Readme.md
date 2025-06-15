@@ -5,7 +5,7 @@ Date: 16/05/2025
 **Description:**
 - Day 4 of the internship focused on clarifying doubts related to the course structure, project details, and the overall workflow of the internship.
 
-**Key Highlights:**
+## Key Highlights:
 
 **❓ Doubt Clarification Session:**
 - Mentors addressed common queries related to the internship, including timelines, expectations, and course content.
