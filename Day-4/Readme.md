@@ -16,7 +16,7 @@ Date: 16/05/2025
 **💡 Project Details Explained:**
 - The project theme, objectives, and expected outcomes were discussed. We received insights on how to approach the project and align it with real-world applications.
 
-**📝 Project Submission Guidelines:**
+## 📝 Project Submission Guidelines:
 - Detailed instructions were provided on how to:
 
 - Submit the project via the LMS portal.
