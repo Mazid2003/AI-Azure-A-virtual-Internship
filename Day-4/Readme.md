@@ -1,4 +1,4 @@
-**🗓 Day 4: Doubt Clarification & Project Overview**
+# 🗓 Day 4: Doubt Clarification & Project Overview
 
 Date: 16/05/2025
 
