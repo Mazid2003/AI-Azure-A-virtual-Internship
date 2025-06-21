@@ -1,4 +1,4 @@
-**Day 1: Orientation & Setup**
+# Day 1: Orientation & Setup
 
 Date: 13/05/2025
 
