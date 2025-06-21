@@ -1,4 +1,4 @@
-**🗓 Day - 7 : Doubt's Clarification Session🚀**
+# 🗓 Day - 7 : Doubt's Clarification Session🚀
 
 Date:23/05/2025
 
@@ -7,6 +7,7 @@ This session is all about clarifying doubt's and explaining the things abour how
 what kind of project should we submit etc
 
 Types of projects we can do for the successful completion of the internship are...
+
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
