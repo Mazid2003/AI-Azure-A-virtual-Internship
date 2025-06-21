@@ -52,7 +52,7 @@ Explored practical use cases in agriculture, healthcare, finance, and e-commerce
 
 ![WhatsApp Image 2025-05-21 at 9 24 43 AM](https://github.com/user-attachments/assets/884baa8d-ae56-47ed-8f47-c1ab03debb8b)
 
-## Regression vs Classification**
+## Regression vs Classification
 
 ![WhatsApp Image 2025-05-21 at 9 24 43 AM (1)](https://github.com/user-attachments/assets/8682954f-d1a7-432c-9e96-c57a751dbc77)
 
@@ -74,11 +74,11 @@ Support Vector Machines (SVM)
 
 ![WhatsApp Image 2025-05-21 at 9 25 20 AM](https://github.com/user-attachments/assets/e84ebaac-7d2f-4077-8e1b-5c29dc85d16b)
 
-💻 Hands-On Project: 
+## 💻 Hands-On Project: 
 
 ![WhatsApp Image 2025-05-21 at 9 35 15 AM](https://github.com/user-attachments/assets/985c409c-8c14-43d3-beea-9ad829491829)
 
-Key Learnings:
+**Key Learnings:**
 
 Data cleaning & preprocessing
 
