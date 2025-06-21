@@ -1,4 +1,4 @@
-**🗓 Day 5 – Introduction to Machine Learning 🚀**
+# 🗓 Day 5 – Introduction to Machine Learning 🚀
 
 Date:20/05/2025
 
@@ -11,23 +11,23 @@ Learned what ML is, its importance in today’s tech landscape, and how it diffe
 
 ![WhatsApp Image 2025-05-21 at 9 24 37 AM](https://github.com/user-attachments/assets/3a440919-57b1-4f2d-89c0-3678dedaa235)
 
-**ML Landscape**
+## ML Landscape
 
 ![WhatsApp Image 2025-05-21 at 9 24 38 AM](https://github.com/user-attachments/assets/04a597f4-fb99-4384-a701-89a545481873)
 
- **ML Workflow**
+ ## ML Workflow
  
  ![WhatsApp Image 2025-05-21 at 9 24 39 AM](https://github.com/user-attachments/assets/5a511917-85f2-4354-b77f-1ee9b5ffb897)
 
 Understood the end-to-end ML pipeline from data collection ➡️ preprocessing ➡️ model building ➡️ evaluation ➡️ deployment.
 
-**Real-Time Case Studies in ML**
+## Real-Time Case Studies in ML
 
 ![WhatsApp Image 2025-05-21 at 9 24 39 AM (1)](https://github.com/user-attachments/assets/356c1faf-509d-4103-9e9a-a53b8aebdeb9)
 
 Explored practical use cases in agriculture, healthcare, finance, and e-commerce where ML drives real value.
 
-**Types of Machine Learning:**
+## Types of Machine Learning:
 
 ![WhatsApp Image 2025-05-21 at 9 24 40 AM](https://github.com/user-attachments/assets/0f50b40a-3faf-44bd-bcf9-1e2fd434d34a)
 
@@ -37,28 +37,28 @@ Explored practical use cases in agriculture, healthcare, finance, and e-commerce
 
       - Reinforcement Learning (decision making via rewards/punishments)
 
-**Supervised Learning – In Depth:**
+## Supervised Learning – In Depth:
 ![WhatsApp Image 2025-05-21 at 9 24 40 AM (1)](https://github.com/user-attachments/assets/ed2e9b0c-401c-4275-a404-9873b695e980)
 
-**Unsupervised Learning**
+## Unsupervised Learning
 
 ![WhatsApp Image 2025-05-21 at 9 24 41 AM](https://github.com/user-attachments/assets/f4119d06-b599-4dde-aefb-06ddc7083e2e)
 
-**Reinforcement Learning**
+## Reinforcement Learning
 
 ![WhatsApp Image 2025-05-21 at 9 24 42 AM](https://github.com/user-attachments/assets/fbaa9e19-f327-42f1-be41-5a4ebaf80354)
 
-**Types of Supervised Learining**
+## Types of Supervised Learining
 
 ![WhatsApp Image 2025-05-21 at 9 24 43 AM](https://github.com/user-attachments/assets/884baa8d-ae56-47ed-8f47-c1ab03debb8b)
 
-**Regression vs Classification**
+## Regression vs Classification**
 
 ![WhatsApp Image 2025-05-21 at 9 24 43 AM (1)](https://github.com/user-attachments/assets/8682954f-d1a7-432c-9e96-c57a751dbc77)
 
 Use cases: price prediction, sentiment analysis, spam detection, etc.
 
-**Types of Algorithms:**
+## Types of Algorithms:
 
 Linear Regression
 
