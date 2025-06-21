@@ -122,7 +122,7 @@ Tools: GitHub Copilot, CodeWhisperer, ChatGPT Code Interpreter.
 
 Prompt: The input or instruction given to a Gen AI model.
 
-## Prompting Techniques**
+## Prompting Techniques
 
 ![WhatsApp Image 2025-05-23 at 11 58 38 AM](https://github.com/user-attachments/assets/e1efdff3-c90b-4cae-b47a-dc73114d857a)
 
@@ -130,27 +130,27 @@ Prompt: The input or instruction given to a Gen AI model.
 
 ![WhatsApp Image 2025-05-23 at 11 58 36 AM](https://github.com/user-attachments/assets/4247323b-b3b6-4e9c-a38d-34fa9f9ec09f)
 
-One-Shot: One example is provided.
+**One-Shot:** One example is provided.
 
 ![WhatsApp Image 2025-05-23 at 11 58 35 AM (1)](https://github.com/user-attachments/assets/abc1e367-7751-407c-a49e-f683970285a2)
 
-Few-Shot: A few examples are included in the prompt.
+**Few-Shot:** A few examples are included in the prompt.
 
 ![WhatsApp Image 2025-05-23 at 11 58 38 AM (1)](https://github.com/user-attachments/assets/96aa4ac5-64fd-42d0-8d03-f0d415e340e0)
 
-Negative Prompting: Specifies what not to generate.
+**Negative Prompting:** Specifies what not to generate.
 
 ![WhatsApp Image 2025-05-23 at 11 58 35 AM](https://github.com/user-attachments/assets/c3d4c25e-7193-492d-b8dd-32a4c233eb8a)
 
-Prompt Chaining: Using multiple prompts in sequence to refine output.
+**Prompt Chaining:** Using multiple prompts in sequence to refine output.
 
 ![WhatsApp Image 2025-05-23 at 11 58 40 AM](https://github.com/user-attachments/assets/c3a44188-4763-4406-8ae3-89af6017f95f)
 
-Chain-of-Thought: Guides the model to show intermediate reasoning steps.
+**Chain-of-Thought:** Guides the model to show intermediate reasoning steps.
 
 ![WhatsApp Image 2025-05-23 at 11 58 39 AM (1)](https://github.com/user-attachments/assets/8e86cea4-de56-414b-a79e-44eca2f6e11a)
 
-Iterative Prompting: Repeatedly refining prompts based on outputs.
+**Iterative Prompting:** Repeatedly refining prompts based on outputs.
 
 ![WhatsApp Image 2025-05-23 at 11 58 39 AM](https://github.com/user-attachments/assets/bb449ec4-253e-4dfe-b9bc-bbbcc7b86583)
 
