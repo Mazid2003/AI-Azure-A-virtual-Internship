@@ -1,14 +1,14 @@
-**🗓 Day - 8 : Classification Models & Evaluation Metrics🚀**
+# 🗓 Day - 8 : Classification Models & Evaluation Metrics🚀
 
 Date:27/05/2025
 
-**🧠 Classification Models**
+## 🧠 Classification Models
 
 ![WhatsApp Image 2025-05-27 at 10 44 05 PM](https://github.com/user-attachments/assets/c0a29712-3c0f-489d-ba8d-8c078a4170f8)
 
 Classification models are supervised machine learning algorithms that predict discrete class labels (e.g., yes/no, spam/ham, positive/negative). These are widely used in fields like medical diagnosis, fraud detection, and sentiment analysis.
 
-**1. 🔹 Logistic Regression**
+### 1. 🔹 Logistic Regression
 
 ![WhatsApp Image 2025-05-27 at 10 44 07 PM (1)](https://github.com/user-attachments/assets/62e21f45-e7cd-41e0-b1f0-b2d296b06864)
 
@@ -44,7 +44,7 @@ Email spam detection
 
 Disease classification (yes/no)
 
-**2. 🔹 K-Nearest Neighbors (KNN)**
+### 2. 🔹 K-Nearest Neighbors (KNN)
 
 ![WhatsApp Image 2025-05-27 at 10 44 07 PM](https://github.com/user-attachments/assets/55765ca8-6d26-4454-b4b7-b7b226375e8e)
 
@@ -70,7 +70,7 @@ Slow with large datasets
 
 Sensitive to noisy data and irrelevant features
 
-**3. 🔹 Decision Tree**
+### 3. 🔹 Decision Tree
 
 ![WhatsApp Image 2025-05-27 at 10 44 06 PM (1)](https://github.com/user-attachments/assets/8d01795a-78bd-4503-86eb-98f7fea94230)
 
@@ -94,7 +94,7 @@ Can overfit if not pruned
 
 Unstable with small data changes
 
-**4. 🔹 Random Forest**
+### 4. 🔹 Random Forest
 
 ![WhatsApp Image 2025-05-27 at 10 44 06 PM](https://github.com/user-attachments/assets/d02932a1-443d-4355-8045-bfc5eccb5a6f)
 
@@ -118,11 +118,11 @@ Less interpretable than a single tree
 
 Computationally intensive
 
-**📏 Evaluation Metrics**
+### 📏 Evaluation Metrics
 
 ![WhatsApp Image 2025-05-27 at 10 44 05 PM (1)](https://github.com/user-attachments/assets/654f5569-7dc1-4276-b22b-bf4ec01c3a7e)
 
-**📊 Classification Metrics**
+## 📊 Classification Metrics
    
 | Metric                   | Description                                                |
 | ------------------------ | ---------------------------------------------------------- |
@@ -134,7 +134,7 @@ Computationally intensive
 | **ROC-AUC Score**        | Measures performance across all classification thresholds  |
 
 
-**📉 Regression Metrics (for context)**
+📉 Regression Metrics (for context)
 | Metric                             | Description                                              |
 | ---------------------------------- | -------------------------------------------------------- |
 | **MAE (Mean Absolute Error)**      | Average absolute difference between predicted and actual |
