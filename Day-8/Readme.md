@@ -134,7 +134,7 @@ Computationally intensive
 | **ROC-AUC Score**        | Measures performance across all classification thresholds  |
 
 
-📉 Regression Metrics (for context)
+## 📉 Regression Metrics (for context)
 | Metric                             | Description                                              |
 | ---------------------------------- | -------------------------------------------------------- |
 | **MAE (Mean Absolute Error)**      | Average absolute difference between predicted and actual |
