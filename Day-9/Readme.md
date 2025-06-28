@@ -127,6 +127,6 @@ Good for visualizing relationships among data points.
 
 - 🎯 Personalized Recommendations in apps and platforms.
 
-## Project**
+**Project**
 ![WhatsApp Image 2025-05-29 at 10 09 18 PM](https://github.com/user-attachments/assets/914d2d77-18d3-4cd9-98ab-6ac7a5ad83e6)
 
