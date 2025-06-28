@@ -1,4 +1,4 @@
-**🗓 Day - 9 :Understanding of Unsupervised Learning and Clustering 🚀**
+# 🗓 Day - 9 :Understanding of Unsupervised Learning and Clustering 🚀
 
 
 Date:29/05/2025
@@ -7,7 +7,7 @@ Date:29/05/2025
 Unsupervised Learning is a machine learning approach where the model is trained on unlabeled data.
 The algorithm tries to discover patterns, groupings, or structure in the input data without being given explicit labels or outputs.
 
-**Key Characteristics:**
+### Key Characteristics:
 No labeled outputs.
 
 Goal is to explore data and find hidden structures.
@@ -16,7 +16,7 @@ Common tasks: Clustering, Dimensionality Reduction, Anomaly Detection.
 
 ![WhatsApp Image 2025-05-29 at 10 09 15 PM (1)](https://github.com/user-attachments/assets/80e1aefb-6cb4-4630-8829-2eb82377e57c)
 
-**Supervised vs Unsupervised**
+## Supervised vs Unsupervised
 
 | Feature       | Supervised Learning        | Unsupervised Learning          |
 | ------------- | -------------------------- | ------------------------------ |
@@ -41,16 +41,16 @@ It is a core task in unsupervised learning used to identify natural groupings in
 
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM (1)](https://github.com/user-attachments/assets/fb7327bc-4b54-403d-b507-4ccdb631cc0d)
 
-Clustering Types:<br>
-    Partitioning → K-Means, K-Medoids<br>
-    Hierarchical → Agglomerative, Divisive<br>
-    Density-Based → DBSCAN, OPTICS<br>
-    Grid-Based → STING, CLIQUE<br>
-    Model-Based → GMM<br>
+**Clustering Types:** <br>
+   **Partitioning →** K-Means, K-Medoids<br>
+    **Hierarchical →** Agglomerative, Divisive<br>
+    **Density-Based →** DBSCAN, OPTICS<br>
+    **Grid-Based →** STING, CLIQUE<br>
+    **Model-Based →** GMM<br>
     
 ![WhatsApp Image 2025-05-29 at 10 09 17 PM](https://github.com/user-attachments/assets/47eb8e11-b3c2-46fc-a89e-bcbf1700effd)
 
-**1. ✅ K-Means Clustering**
+## 1. ✅ K-Means Clustering
 Partitioning algorithm that divides data into k clusters.
 
 Works by minimizing the distance between data points and their cluster centroids.
