@@ -61,7 +61,8 @@ Fast and efficient, but sensitive to outliers and shape of data.
 
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (3)](https://github.com/user-attachments/assets/ca6cf077-ba01-414d-ae81-5b806835859b)
 
-**2. 🧱 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+## 2. 🧱 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+
 Clusters data based on density of points.
 
 Groups together closely packed points and marks low-density points as noise/outliers.
@@ -72,7 +73,8 @@ Can find arbitrarily shaped clusters and handles noise well.
 
 ![WhatsApp Image 2025-05-29 at 10 09 16 PM (2)](https://github.com/user-attachments/assets/4abf7c0e-e381-43f1-aa8b-d49fc6acccb4)
 
-**K-Means vs DBSCAN**
+## K-Means vs DBSCAN
+
 | Feature             | K-Means                | DBSCAN                         |
 | ------------------- | ---------------------- | ------------------------------ |
 | Clusters Shape      | Spherical              | Arbitrary                      |
@@ -81,15 +83,15 @@ Can find arbitrarily shaped clusters and handles noise well.
 | Based on Density    | No                     | Yes                            |
 | Performance         | Fast on large datasets | Slower on large noisy datasets |
 
-**3. 🌲 Hierarchical Clustering**
+## 3. 🌲 Hierarchical Clustering
 
 Builds a tree of clusters (dendrogram).
 
-Two types:
+**Two types:**
 
-Agglomerative: Bottom-up approach (merges clusters).
+**Agglomerative:** Bottom-up approach (merges clusters).
 
-Divisive: Top-down approach (splits clusters).
+**Divisive:** Top-down approach (splits clusters).
 
 No need to specify number of clusters initially.
 
@@ -111,20 +113,20 @@ Good for visualizing relationships among data points.
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM (1)](https://github.com/user-attachments/assets/d1cc2e88-7bf5-4131-9750-7debac252c3c)
 ![WhatsApp Image 2025-05-29 at 10 09 19 PM](https://github.com/user-attachments/assets/e2839f66-feb6-471b-9ff8-e1be64635b60)
 
-**💼 Applications of Clustering**
+## 💼 Applications of Clustering
 
-📦 Customer Segmentation in marketing.
+- 📦 Customer Segmentation in marketing.
 
-🛒 Market Basket Analysis for recommending products.
+- 🛒 Market Basket Analysis for recommending products.
 
-📸 Image Compression by grouping similar pixel intensities.
+- 📸 Image Compression by grouping similar pixel intensities.
 
-🔍 Anomaly Detection in fraud and cybersecurity.
+- 🔍 Anomaly Detection in fraud and cybersecurity.
 
-📚 Document Clustering for organizing news, research, or search results.
+- 📚 Document Clustering for organizing news, research, or search results.
 
-🎯 Personalized Recommendations in apps and platforms.
+- 🎯 Personalized Recommendations in apps and platforms.
 
-**Project**
+## Project**
 ![WhatsApp Image 2025-05-29 at 10 09 18 PM](https://github.com/user-attachments/assets/914d2d77-18d3-4cd9-98ab-6ac7a5ad83e6)
 
