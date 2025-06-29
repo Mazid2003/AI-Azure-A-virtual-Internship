@@ -40,49 +40,49 @@ Azure **Virtual Machines (VMs): Run Windows or Linux** virtual machines.
 
 **Azure Batch:** Large-scale parallel and high-performance computing (HPC) workloads.
 
-**🗄️ Azure Storage Services**
+## 🗄️ Azure Storage Services
 
 ![WhatsApp Image 2025-06-06 at 8 10 54 AM (1)](https://github.com/user-attachments/assets/4a8edf1e-ad17-49ea-8547-b2f29cf16979)
 
-Azure provides secure and scalable storage solutions:
+Azure **provides secure and scalable** storage solutions:
 
-Azure Blob Storage: Store unstructured data like images, videos, backups, etc.
+**Azure Blob Storage:** Store unstructured data like images, videos, backups, etc.
 
-Azure File Storage: Fully managed file shares in the cloud.
+**Azure File Storage:** Fully managed file shares in the cloud.
 
-Azure Queue Storage: Messaging for distributed applications.
+**Azure Queue Storage:** Messaging for distributed applications.
 
-Azure Table Storage: NoSQL key-value store for rapid development.
+**Azure Table Storage:** NoSQL key-value store for rapid development.
 
-**🗃️ Azure Databases**
+## 🗃️ Azure Databases
 
 ![WhatsApp Image 2025-06-06 at 8 10 54 AM](https://github.com/user-attachments/assets/2c05910c-e0a4-4cac-8aa9-1651d54a0cb7)
 
-A wide selection of managed database services:
+A **wide selection of managed database** services:
 
-Azure SQL Database: Managed relational database based on SQL Server.
+**Azure SQL Database:** Managed relational database based on SQL Server.
 
-Azure Cosmos DB: Globally distributed NoSQL database.
+**Azure Cosmos DB:** Globally distributed NoSQL database.
 
-Azure Database for MySQL/PostgreSQL: Fully managed open-source databases.
+**Azure Database for MySQL/PostgreSQL:** Fully managed open-source databases.
 
-Azure Table Storage: Lightweight NoSQL key-value storage.
+**Azure Table Storage:** Lightweight NoSQL key-value storage.
 
-**🧠 Azure AI and Machine Learning**
+## 🧠 Azure AI and Machine Learning
 
 ![WhatsApp Image 2025-06-06 at 8 10 52 AM](https://github.com/user-attachments/assets/4b10acb1-86d7-499c-a61d-a171ad1de961)
 
-Azure enables developers and data scientists to build intelligent applications:
+Azure **enables developers and data scientists** to build intelligent applications:
 
-Azure Machine Learning: End-to-end machine learning lifecycle support.
+**Azure Machine Learning:** End-to-end machine learning lifecycle support.
 
-Cognitive Services: Pre-built AI APIs for vision, speech, language, and decision.
+**Cognitive Services:** Pre-built AI APIs for vision, speech, language, and decision.
 
-Bot Services: Build intelligent, serverless chatbots.
+**Bot Services:** Build intelligent, serverless chatbots.
 
-OpenAI Service: Access to models like GPT for advanced AI applications.
+**OpenAI Service:** Access to models like GPT for advanced AI applications.
 
-**📊 Azure Analytics and Big Data**
+## 📊 Azure Analytics and Big Data
 
 ![WhatsApp Image 2025-06-06 at 8 10 48 AM](https://github.com/user-attachments/assets/d91e315b-a8f6-4683-ae08-8dbc5b16ac63)
 
