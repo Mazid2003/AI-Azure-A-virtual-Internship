@@ -28,17 +28,17 @@ Microsoft Azure is a cloud computing platform provided by Microsoft. It offers a
 
 ![WhatsApp Image 2025-06-06 at 8 10 54 AM (2)](https://github.com/user-attachments/assets/e08f24de-fec2-420a-9f8c-61112efa747b)
 
-Azure offers powerful compute services to run applications and services:
+Azure offers **powerful compute services** to run applications and services:
 
-Azure Virtual Machines (VMs): Run Windows or Linux virtual machines.
+Azure **Virtual Machines (VMs): Run Windows or Linux** virtual machines.
 
-App Services: Host web apps, REST APIs, and mobile back ends.
+**App Services:** Host web apps, REST APIs, and mobile back ends.
 
-Azure Functions: Serverless compute for event-driven workloads.
+**Azure Functions:** Serverless compute for event-driven workloads.
 
-Azure Kubernetes Service (AKS): Manage containerized applications using Kubernetes.
+**Azure Kubernetes Service (AKS):** Manage containerized applications using Kubernetes.
 
-Azure Batch: Large-scale parallel and high-performance computing (HPC) workloads.
+**Azure Batch:** Large-scale parallel and high-performance computing (HPC) workloads.
 
 **🗄️ Azure Storage Services**
 
