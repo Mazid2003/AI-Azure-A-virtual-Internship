@@ -1,8 +1,8 @@
-**🗓 Day - 12 :Microsoft Azure🚀**
+# 🗓 Day - 12 :Microsoft Azure🚀
 
 Date: 05/06/2025
 
-**What is Microsoft Azure?**
+## What is Microsoft Azure?
 
 ![WhatsApp Image 2025-06-06 at 8 10 55 AM (1)](https://github.com/user-attachments/assets/23d7ef67-c9a4-4020-9624-a0e747148d9a)
 
