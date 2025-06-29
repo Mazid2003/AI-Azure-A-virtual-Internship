@@ -8,23 +8,23 @@ Date: 05/06/2025
 
 Microsoft Azure is a cloud computing platform provided by Microsoft. It offers a wide range of cloud services, including computing, storage, databases, networking, artificial intelligence, analytics, and more. Azure allows individuals and businesses to build, deploy, and manage applications through Microsoft's global network of data centers.
 
-**🚀 Key Features of Microsoft Azure**
+## 🚀 Key Features of Microsoft Azure
 
 ![WhatsApp Image 2025-06-06 at 8 10 55 AM](https://github.com/user-attachments/assets/1ce5400d-92c1-4eb6-888a-96ef0488a70d)
 
-Scalability: Automatically scale your applications to meet demand.
+**Scalability:** Automatically scale your applications to meet demand.
 
-Flexibility: Supports various operating systems, programming languages, frameworks, databases, and devices.
+**Flexibility:** Supports various operating systems, programming languages, frameworks, databases, and devices.
 
-Security: Enterprise-grade security and compliance capabilities.
+**Security:** Enterprise-grade security and compliance capabilities.
 
-Global Reach: 60+ regions worldwide with a massive network of data centers.
+**Global Reach:** 60+ regions worldwide with a massive network of data centers.
 
-Pay-as-you-go: Cost-efficient pricing model based on usage.
+**Pay-as-you-go:** Cost-efficient pricing model based on usage.
 
-Hybrid Capability: Seamless integration of on-premise and cloud environments.
+**Hybrid Capability:** Seamless integration of on-premise and cloud environments.
 
-**🖥️ Azure Compute Services**
+## 🖥️ Azure Compute Services
 
 ![WhatsApp Image 2025-06-06 at 8 10 54 AM (2)](https://github.com/user-attachments/assets/e08f24de-fec2-420a-9f8c-61112efa747b)
 
