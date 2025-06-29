@@ -86,16 +86,16 @@ Azure **enables developers and data scientists** to build intelligent applicatio
 
 ![WhatsApp Image 2025-06-06 at 8 10 48 AM](https://github.com/user-attachments/assets/d91e315b-a8f6-4683-ae08-8dbc5b16ac63)
 
-Tools for data-driven insights and large-scale analytics:
+**Tools for data-driven insights and large-scale analytics:**
 
-Azure Synapse Analytics: Integrates big data and data warehousing.
+**Azure Synapse Analytics:** Integrates big data and data warehousing.
 
-Azure Data Factory: ETL (Extract, Transform, Load) service for data integration.
+**Azure Data Factory:** ETL (Extract, Transform, Load) service for data integration.
 
-Azure Databricks: Apache Spark-based analytics platform.
+**Azure Databricks:** Apache Spark-based analytics platform.
 
-HDInsight: Managed cloud Hadoop and Spark services.
+**HDInsight:** Managed cloud Hadoop and Spark services.
 
-Power BI Embedded: Embed rich, interactive reports into applications.
+**Power BI Embedded:** Embed rich, interactive reports into applications.
 
 
