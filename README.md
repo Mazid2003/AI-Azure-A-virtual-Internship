@@ -45,6 +45,8 @@ This repository documents my daily progress and learnings from the **4-week Virt
 ---
 [offer_letter.pdf](https://github.com/user-attachments/files/20241340/offer_letter.pdf)
 
+**Completion Certificate:**
+
 **👨‍💻 Author**
 - Created by Mohammad Mazid
 - Email:mazidmd750@gmail.com
