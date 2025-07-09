@@ -47,6 +47,9 @@ This repository documents my daily progress and learnings from the **4-week Virt
 
 **Completion Certificate:**
 
+![Internship](https://github.com/user-attachments/assets/31809553-30a0-43ae-b963-cde9000449bb)
+
+
 **👨‍💻 Author**
 - Created by Mohammad Mazid
 - Email:mazidmd750@gmail.com
